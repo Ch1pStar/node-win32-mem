@@ -1,0 +1,13 @@
+{
+  "name": "winprocess",
+  "version": "0.0.1",
+  "description": "Node Binding for ReadProcessMemory and WriteProcessMemory.",
+  "keywords": [
+    "WriteProcessMemory", "ReadProcessMemory"
+  ],
+  "license":"MIT",
+  "os" : [ "win32"],
+  "main": "test.js",
+  "private": false,
+  "gypfile": true
+}
