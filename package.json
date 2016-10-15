@@ -5,6 +5,10 @@
   "keywords": [
     "WriteProcessMemory", "ReadProcessMemory"
   ],
+  "dependencies" :{
+    "google-protobuf":"*",
+    "ws": "*"
+  },
   "license":"MIT",
   "os" : [ "win32"],
   "main": "test.js",
