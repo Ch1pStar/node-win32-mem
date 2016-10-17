@@ -1,0 +1,4 @@
+build/*
+node_modules/*
+csgo/protobuf/entity_pb.js
+csgo/web/build/*
